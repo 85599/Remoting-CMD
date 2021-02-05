@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Lang-Python3-lightgrey.svg"></a>
-  <a href="/LICENSE.md"><img src="https://img.shields.io/github/license/bearlike/Remote-CMD.svg?color=blue"></a>
+  <a href="/LICENSE.md"><img src="https://img.shields.io/github/license/85599/Remoting-CMD.svg?color=blue"></a>
 </p>
 
 
